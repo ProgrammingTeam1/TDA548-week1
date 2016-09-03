@@ -4,7 +4,6 @@ import java.text.DecimalFormat;
 import static java.lang.System.*;;
 
 public class WhileLoop {
-
     public static void main(String[] args) {
         new WhileLoop().program();
     }
@@ -57,7 +56,6 @@ public class WhileLoop {
             i++;
         }
         out.print("pi = " + 4*pi4);
-
+        
     }
-
 }
